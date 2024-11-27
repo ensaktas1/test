@@ -59,6 +59,15 @@
       ]
     },
     {
+      "group": "Deserve",
+      "pages": [
+        "introduction",
+        "quickstart",
+        "development",
+        "design"
+      ]
+    },
+    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
